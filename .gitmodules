@@ -1,0 +1,12 @@
+[submodule "msp430lib"]
+	path = msp430lib
+	url = https://github.com/duselbaer/msp430lib.git
+[submodule "RF24"]
+	path = RF24
+	url = https://github.com/duselbaer/RF24.git
+[submodule "RF24Network"]
+	path = RF24Network
+	url = https://github.com/duselbaer/RF24Network.git
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/duselbaer/msp430cmake.git
